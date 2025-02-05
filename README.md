@@ -17,6 +17,6 @@ This project is a **WordPress website** built for a client during my internship.
 ✅ **User-Friendly CMS** – Easy for the client to manage  
 
 ### 📸 Preview  
-![Website Preview](link-to-screenshot.png)  
+![Website Preview](https://bastiaansenwonen.nl/)  
 
 ### 📂 Project Structure  
